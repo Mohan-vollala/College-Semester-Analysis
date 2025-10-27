@@ -13,12 +13,7 @@ select Student_name  from  snist.ece
  select Section,count(*)as total_students from snist.ece
  group by Section;
  
- /*update snist.ece
- set Section='F'
- where roll_number='22311A04CA';*/
-#select (489 * (489 + 1) / 2-sum(s_no)) from ece;
-/*update ece
-set s_no=s_no - 1 where s_no > 46;*/
+
 
  update snist.ece
  set section='-',Student_name='-',Roll_Number='-',Total='-',Total='-',BackLogs='-',Credits='-',SGPA='-',Sem_Status='-',CGPA='-'
