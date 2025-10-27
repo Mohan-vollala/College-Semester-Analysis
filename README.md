@@ -1,5 +1,5 @@
 # College-Semester-Analysis
-Data analysis of SNIST ECE branch student semester results using SQL and Power BI — includes dataset cleaning, visualization, and academic insights.
+Data analysis of College students semester results using SQL and Power BI — includes dataset cleaning, visualization, and academic insights.
 
 ## 📘 Overview
 The dataset originally came in **PDF format** (semester results), which was manually converted to **Excel** for data cleaning and structuring.  
